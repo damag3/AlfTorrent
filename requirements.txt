@@ -1,0 +1,6 @@
+# Runtime dependencies (use Python 3.12, 64-bit: libtorrent wheels are not published for every Python version)
+libtorrent>=2.0
+customtkinter>=5.2
+pystray>=0.19
+pillow>=10.0
+psutil>=5.9
